@@ -1,0 +1,33 @@
+_repo: Telling-Fortunes-by-CardsPraciced-by-Arab-Seers-and-Sibyls-and-the-Romany-Gypsies_42008
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42008-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ali, Mohammed
+    gutenberg_agent_id: '41473'
+    url: http://www.gutenberg.org/2009/agents/41473
+  editor:
+    agent_name: Case, Carleton B. (Carleton Britton)
+    alias: Case, Carleton Britton
+    birthdate: 1857
+    gutenberg_agent_id: '41474'
+    url: http://www.gutenberg.org/2009/agents/41474
+description: '"Mohammed Ali" is a pseudonym.'
+gutenberg_issued: '2013-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42008'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Card games'
+- !lcsh 'Fortune-telling by cards'
+- !lcc 'BF'
+- !lcsh 'Fortune-telling'
+title: "Telling Fortunes by Cards\r\nA Symposium of the Several Ancient and Modern\
+  \ Methods as Practiced by Arab Seers and Sibyls and the Romany Gypsies"
+url: http://www.gutenberg.org/ebooks/42008
